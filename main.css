@@ -1,0 +1,50 @@
+body{
+    width: 100;
+    height: 1700px;
+    margin: auto 0;
+}
+
+.menu-principal{
+    width: 100%;
+    height: 100%;
+    background-color: #e70000;
+}
+
+.topo{
+    width: 100%;
+    height: 72px;
+    background-color: white;
+}
+
+.icone-01{
+    padding: 9px;
+    width: 20%;
+}
+
+.meio{
+    width: 100%;
+    height: 480px;
+    background-color: #e70000;
+}
+
+.icone-02{
+    width: 30%;
+    float: right;
+}
+
+.text-01{
+    position: relative;
+    top: 100px;
+    left: 114px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:larger;
+    color: #ffffff;
+
+}
+
+#primeiro{
+    color: #fefefe;
+    position: relative;
+    top: 18px;
+    font-size: small;
+}
